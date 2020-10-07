@@ -1,0 +1,1 @@
+alert("hello word!!! i am doit javascript.");
