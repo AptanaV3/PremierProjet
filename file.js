@@ -1,1 +1,1 @@
-alert("hello word!!! i am doit javascript.");
+alert("--FichierJS-- hello word!!! i am doit javascript.");
